@@ -1,0 +1,4 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitgnorenpm i mocha supertest --save-dev
